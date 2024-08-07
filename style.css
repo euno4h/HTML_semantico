@@ -12,13 +12,25 @@ body{
     background-color: #282c34;
     min-height: 100vh;
 }
+
 header,nav,footer{
     background-color: #ffa500;
     padding: 20px;
     text-align: center;
     color: white;
 }
+
 .cabeca{
     font-size: 24px;
     margin-bottom: 20px;
+}
+
+.navegador{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.rodape{
+    font-size: 20px;
+    margin-top: 20px;
 }
