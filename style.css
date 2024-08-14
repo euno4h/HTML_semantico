@@ -56,3 +56,11 @@ header,nav,footer{
     border-radius: 5px;
 }
 
+.secao_principal{
+    flex: 1;
+}
+
+.artigo_secao{
+    flex: 1;
+}
+
