@@ -41,6 +41,18 @@ header,nav,footer{
     gap: 20px;
 }
 
-.secaoprincipal{
-    
+.secao_principal{
+    display: flex;
+    flex: 2;
+    gap: 20px;
 }
+
+.secao_principal, .artigo_secao{
+    background-color: #ffa500;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
